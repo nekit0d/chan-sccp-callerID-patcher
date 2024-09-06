@@ -120,6 +120,7 @@ static void sccp_device_Locale_CallerID_Convert(constDevicePtr d, char *dst, ICO
         }\
         *dst = '\0';\
         return;\
+    }\
 }\
 \
 
